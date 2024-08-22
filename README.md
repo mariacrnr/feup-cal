@@ -10,3 +10,8 @@ all in the data folder, as well as the background picture to show the graph on.
 ## Compilation Instructions
 To compile and run our program, you only need to run the .exe file and the main menu with all the implemented 
 functionalities will be shown.
+
+
+
+
+Made with love by me, [André Santos](https://github.com/andrelds11) and [Edgar Torre](https://github.com/edgarftorre). <3
